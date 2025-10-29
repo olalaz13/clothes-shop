@@ -447,6 +447,9 @@
 
 /* Responsive Design */
 @media (max-width: 1024px) {
+    .info-icon {
+        display: none;
+    }
     .info-item {
         align-items: center;
     }
